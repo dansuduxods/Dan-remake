@@ -1,17 +1,17 @@
 {
-  "PREFIX": ",",
+  "PREFIX": "/",
   "dakogOten": "hard07",
-  "PORT": 8080,
+  "PORT": 3030,
   "WEBVIEW": "https://octobotremakev6-z36fc1ea.b4a.run/",
   "RESTART_TIME": 30,
   "admin": [
-    "61556251846264",
+    "61554405703021",
     "61561956243170",
     "100086308503542"
   ],
   "ADS": "🐙Go OctobotRemake Go",
   "ADS_TIMER": "60",
-  "OWNER": "61556251846264",
-  "SPAM_MSG": "DETECTED SPAMMING 😬🥬",
+  "OWNER": "61554405703021",
+  "SPAM_MSG": "HOY SPAMMING 😬🥬",
   "NO_PREFIX": "false"
 }
